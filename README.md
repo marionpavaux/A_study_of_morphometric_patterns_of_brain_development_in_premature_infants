@@ -1,4 +1,4 @@
-# Morphometric patterns of brain development in prematureinfants
+# Morphometric patterns of brain development in premature infants
 
 Master-level project conducted at inDev Team, Inserm NeuroDiderot UMR1141 department. CEA Saclay, NeuroSpin center | Oct 2021- Jan 2022. 
 
